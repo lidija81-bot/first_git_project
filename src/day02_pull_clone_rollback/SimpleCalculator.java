@@ -24,6 +24,7 @@ public class SimpleCalculator {
         System.out.println("Add: " + add(x, y));
         System.out.println("Subtract: " + subtract(x, y));
          System.out.println("Multiply: " + multiply(x, y));
+        System.out.println("Divide: " + divide(x, y));
     }
 
 }
